@@ -5,9 +5,9 @@
  -The electrical circuit will be described as One String, where the type of connection between
  resistors is represented by either 'S' (Series) or 'P' (Parallel).
  #### ● Resistor value will be integer or float number.
- #### ● Typesofelectrical circuit :
- 1- Series (will be represented as S or s )
- 2- Parallel (will be represented as P or p )
+ #### ● Types of electrical circuit :
+ 1- Series (will be represented as S or s ).
+ 2- Parallel (will be represented as P or p ).
  #### ● It is guaranteed that each connection will end by e (ex:S 1 1 e)
  #### ● Your application should provide the following features :
  1. Enable users to input electrical circuit configurations using one string
