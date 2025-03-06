@@ -22,7 +22,9 @@ multiple childs connections, As we can replace 1 resistor value by a connection.
 (ex: P 1 2 S 1 1 e e Act as P 1 2 2 e )
  
  4-Establish a systematic approach to evaluate the circuit and generate the
- desired output. (ex: The total resistance = X)
+ desired output. 
+ 
+ (ex: The total resistance = X)
  
  5-Errorhandling:
  
