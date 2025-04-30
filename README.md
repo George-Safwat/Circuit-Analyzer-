@@ -1,4 +1,4 @@
-# Circuit-Analyzer-(Calculation the equivalent resistance of any circuit)
+# Circuit-Analyzer (Calculation the equivalent resistance of any circuit)
 ### Description:
  This task is to develop a C++ program that calculates the total resistance of an
  electrical circuit based on a user-provided string description.
